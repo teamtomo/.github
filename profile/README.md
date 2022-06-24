@@ -2,7 +2,7 @@
 
 Welcome to the **TeamTomo** GitHub organization.
 
-*Modular tools the cryo-ET Python community can depend on*
+*modular Python packages the cryo-ET community can depend on*
 
 ## Core concepts
 
