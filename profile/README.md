@@ -6,7 +6,8 @@ Welcome to the **TeamTomo** GitHub organization.
 
 ## Key ideas
 
-- packages are small and do specific things well
+- packages are small and module
+- the scope of a package is limited and well defined
 - analysis is separate from IO
 - wrappers take in-memory objects
 - APIs are [Pythonic](https://peps.python.org/pep-0020/)
