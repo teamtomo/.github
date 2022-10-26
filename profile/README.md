@@ -1,4 +1,4 @@
-# TeamTomo
+# teamtomo
 
 Welcome to the **TeamTomo** GitHub organization.
 
