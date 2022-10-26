@@ -21,12 +21,13 @@ If this seems daunting, we're [here to help](https://forum.image.sc/)!
 
 ## Development model
 
-Because individual packages in *teamtomo* are small and well scoped it is easy to 
-depend on only those packages relevant to your own work. 
+Because packages in *teamtomo* are small and well scoped it is easy to 
+depend on only those packages relevant to your work. 
 
 *teamtomo* is not a place for the development of your own projects, those belong 
 to you and the credit should be yours alone! 
-If along the way you develop a small, reusable component that could benefit the 
+
+However, if along the way you develop a small component that could benefit the 
 entire community then we would love to work with you to bring it here.
 
 ## Contributors
