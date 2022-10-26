@@ -6,7 +6,7 @@ Welcome to the **TeamTomo** GitHub organization.
 
 ## Mission
 
-To help cryo-ET labs everywhere develop their ideas without reinventing the software stack.
+To help the cryo-ET community develop their ideas without reinventing the software stack.
 
 ## Key ideas
 
