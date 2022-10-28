@@ -24,11 +24,10 @@ If this seems daunting, we're [here to help](https://forum.image.sc/)!
 Because packages in *teamtomo* are small and well scoped it is easy to 
 depend on only those packages relevant to your work. 
 
-*teamtomo* is not a place for the development of your own projects, those belong 
+*teamtomo* is **not** a place for the development of your own projects. Your projects belong 
 to you and the credit should be yours alone! 
-
-However, if along the way you develop a small component that could benefit the 
-entire community then we would love to work with you to bring it here.
+Did you develop something along the way that could benefit the 
+entire community? We would love to work with you to bring it here.
 
 ## Contributors
 Interested in contributing? Fantastic, Welcome aboard! 
