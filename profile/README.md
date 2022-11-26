@@ -24,9 +24,9 @@ If this seems daunting, we're [here to help](https://forum.image.sc/)!
 Because packages in *teamtomo* are small and well scoped it is easy to 
 depend on only those packages relevant to your work. 
 
-*teamtomo* is **not** a place for the development of your own projects. Your projects belong 
-to you and the credit should be yours alone! 
-Did you develop something along the way that could benefit the 
+*teamtomo* is **not** a place for the development of your own software projects. 
+Your projects belong to you and the credit should be yours alone! 
+Did you develop a small, reusable component along the way that could benefit the 
 entire community? We would love to work with you to bring it here.
 
 ## Contributors
