@@ -33,7 +33,7 @@ entire community? We would love to work with you to bring it here.
 Interested in contributing? Fantastic, Welcome aboard! 
 We use [zulip](https://teamtomo.zulipchat.com/), a chat platform open to all for discussing details about the project.
 
-## Guide for Contributing
+## Licensing
 All projects in this organisation should be licensed under the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause).
 
 ## Using and Citing the Tools
