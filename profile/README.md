@@ -17,7 +17,7 @@ To help the cryo-ET community develop their ideas without reinventing the softwa
 - APIs are [Pythonic](https://peps.python.org/pep-0020/) and [type hinted](https://docs.python.org/3/library/typing.html)
 - code is [tested](https://docs.pytest.org/en/7.1.x/)
 
-If this seems daunting, we're here to help, please reach out over at [image.sc](https://forum.image.sc/)!
+If this seems daunting, we're here to help, please reach out by posting on [image.sc](https://forum.image.sc/)!
 
 ## Development model
 
