@@ -17,7 +17,7 @@ To help the cryo-ET community develop their ideas without reinventing the softwa
 - APIs are [Pythonic](https://peps.python.org/pep-0020/) and [type hinted](https://docs.python.org/3/library/typing.html)
 - code is [tested](https://docs.pytest.org/en/7.1.x/)
 
-If this seems daunting, we're [here to help](https://forum.image.sc/)!
+If this seems daunting, we're here to help, please reach out over at [image.sc](https://forum.image.sc/)!
 
 ## Development model
 
@@ -31,7 +31,7 @@ entire community? We would love to work with you to bring it here.
 
 ## Contributors
 Interested in contributing? Fantastic, Welcome aboard! 
-We use [zulip](https://teamtomo.zulipchat.com/), a chat platform open to all for discussing details about the project.
+We use [zulip](https://teamtomo.zulipchat.com/), a chat platform open to all for discussing details about the project. 
 
 ## Licensing
 All projects in this organisation should be licensed under the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause).
