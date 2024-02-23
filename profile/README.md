@@ -30,7 +30,8 @@ entire community? We would love to work with you to bring it here.
 ## Work with us
 Interested in working with us in some way? Fantastic, Welcome aboard! 
 
-Most discussion should happen on [image.sc](https://forum.image.sc/tag/teamtomo) as it is easier to find when searching online.
+Most discussion should happen on [image.sc](https://forum.image.sc/tag/teamtomo) so it is easy to find when searching online.
+
 For realtime chat we use image.sc's [zulip](https://imagesc.zulipchat.com/#narrow/stream/426493-TeamTomo), a chat platform open to all for discussing details about the project. 
 
 ## Licensing
